@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gurusaran Prasad
 
-<!--
-**gurusaranprasad2-cmyk/gurusaranprasad2-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Gurusaran Prasad**, a Computer Science Engineering (CSE) student at DYPSTR.
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about software development and problem-solving.
+- Always eager to learn new technologies and improve my skills.
+- Interested in web development, algorithms, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, Java, C++
+- Web Technologies: HTML, CSS, JavaScript
+- Tools & Platforms: Git, GitHub, VS Code
+
+## Projects
+Here are some of the projects I've worked on:
+- **Project 1**: Brief description or link
+- **Project 2**: Brief description or link
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [github.com/gurusaran](https://github.com/gurusaran)
+
+---
+
+Thanks for visiting my profile! Feel free to connect with me.
+
