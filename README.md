@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - **Project 2**: Brief description or link
 
 ## Contact
-- Email: your.email@example.com
+- Email: gurusaranprasad2@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - GitHub: [github.com/gurusaran](https://github.com/gurusaran)
 
