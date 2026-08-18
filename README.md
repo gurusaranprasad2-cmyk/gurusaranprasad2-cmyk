@@ -8,7 +8,7 @@ Hello! I'm **Gurusaran Prasad**, a Computer Science Engineering (CSE) student at
 - Interested in web development, algorithms, and data structures.
 
 ## Skills
-- Programming Languages: Python, Java, C++
+- Programming Languages: Python, C, C++
 - Web Technologies: HTML, CSS, JavaScript
 - Tools & Platforms: Git, GitHub, VS Code
 
@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 
 ## Contact
 - Email: gurusaranprasad2@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/gurusaran-prasad-8a8987377)
 - GitHub: [github.com/gurusaran](https://github.com/gurusaran)
 
 ---
